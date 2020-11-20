@@ -1,5 +1,2 @@
 Hey you made it to... another page
-
-![Image of Yaktocat](yaktocat.png | width=250)
-
-
+<img src="yaktocat.png" width=50% >
