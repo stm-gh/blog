@@ -1,5 +1,5 @@
 Hey you made it to... another page
 
-![Image of Yaktocat](yaktocat.png)
+![Image of Yaktocat](yaktocat.png =250x)
 
 
